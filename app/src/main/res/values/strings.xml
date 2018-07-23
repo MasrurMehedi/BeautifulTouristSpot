@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">BeautifulTouristSpot</string>
+
+    <string name="ran_title">RANGAMATI</string>
+    <string name="ran_desc">
+                            Sajek Valley is an emerging tourist spot in Bangladesh
+                            situated among the hills of Kasalong range of mountains in Sajek union,
+                            Baghaichhari Upazila in Rangamati District.
+                            [1]The valley is 1800 feet above sea level.
+                            [2]Sajek valley is known as the Queen of Hills and Roof of Rangamati.
+    </string>
+    <string name="ban_title">BANDARBAN</string>
+    <string name="ban_desc">
+
+                            Nilgiri, which literally means "Blue Mountain" in many languages, may refer to:
+                            Nilgiri Biosphere Reserve, an International Biosphere Reserve in the Western Ghats and Nilgiri Hills ranges of South India
+                            Nilgiri mountains, a range of mountains spanning the states of Tamil Nadu and Kerala in Southern India
+                            Nilagiri or Nilgiri, a town in Balasore District of the state of Odisha in East India
+
+
+    </string>
+    <string name="saj_title">SAJEK</string>
+    <string name="saj_desc">
+
+      Rangamati (Bengali: রাঙামাটি, Chakma: ￼, Rangamattye) is a district in south-eastern Bangladesh.
+      It is a part of the Chittagong Division[2]
+      and the town of Rangamati serves as the headquarters of the district.
+      Area-wise, Rangamati is the largest district of the country.
+
+    </string>
+    <string name="nil_title">NILGIRI</string>
+    <string name="nil_desc">
+                     Bandarban (Bengali: বান্দরবান) is a district in South-Eastern Bangladesh,
+                     and a part of the Chittagong Division.
+                    [1] It is one of the three hill districts of Bangladesh and a part of the Chittagong Hill Tracts,
+                     the others being Rangamati District and Khagrachhari District.
+                     Bandarban (4,479 km²) is not only the most remote district of the country,
+                     but also is the least populated (population 292,900) one.
+                    [2]Bandarban (meaning the dam of monkeys), or in Marma or Arakanese language as "Rwa-daw Mro" is also known as Arvumi or the Bohmong Circle.
+
+
+    </string>
+
+</resources>
